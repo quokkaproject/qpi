@@ -2,5 +2,18 @@ packages = {
     "material": {
         "download_url": "https://github.com/quokkaproject/theme_material/archive/master.zip",
         "maintainer": "EllisonLeao"
+    },
+    "uikit": {
+        "download_url": "https://github.com/quokkaproject/theme_uikit/archive/master.zip",
+        "maintainer": "Quokka Project"
+    },
+    "pure": {
+        "maintainer": "Quokka Project",
+        "built_in": true,
+        "default": true
+    },
+    "bootstrap3": {
+        "maintainer": "Quokka Project",
+        "download_url": "https://github.com/quokkaproject/theme_bootstrap3/archive/master.zip"
     }
 }
