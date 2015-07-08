@@ -1,6 +1,6 @@
-packages = [
-    "material" : {
+packages = {
+    "material": {
         "download_url": "https://github.com/quokkaproject/theme_material/archive/master.zip",
         "maintainer": "EllisonLeao"
     }
-]
+}
