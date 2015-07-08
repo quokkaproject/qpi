@@ -2,5 +2,13 @@ packages = {
     "cart": {
         "download_url": "https://github.com/quokkaproject/quokka-cart/archive/master.zip",
         "maintainer": "QuokkaPeoject"
+    },
+    "fundraising": {
+        "download_url": "https://github.com/quokkaproject/quokka-fundraising/archive/master.zip",
+        "maintainer": "QuokkaPeoject"
+    },
+    "classes": {
+        "download_url": "https://github.com/quokkaproject/quokka-classes/archive/master.zip",
+        "maintainer": "QuokkaPeoject"
     }
 }
