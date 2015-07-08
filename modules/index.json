@@ -1,0 +1,6 @@
+packages = [
+    "cart": {
+        "download_url": "https://github.com/quokkaproject/quokka-cart/archive/master.zip",
+        "maintainer": "QuokkaPeoject"
+    }
+]
